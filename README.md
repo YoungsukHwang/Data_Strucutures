@@ -14,7 +14,7 @@ Implementation of an interactive programme that uses Linked list data structure 
 Assign 2.</br>
 Rat in a maze problem.  Shortest Path Maze Solver & Longest Path Maze Solver.</br>
 Assign 3.</br>
-Q1) Input a string of preorder, construct binary tree and report postorder, inorder, and levelorder versions. Q2) Longest Common Path of two given nodes in a binary tree.</br>
+Q1) Input a string of preorder, construct binary tree, and report postorder, inorder, and levelorder versions. Q2) Longest Common Path of two given nodes in a binary tree.</br>
 Assing 4.</br>
 Implement a variety of sorting algorithms and compare their performances. 1) Selection sort, 2) Quicksort, 3) Heapsort, without using `heap initialization', 4) Heapsort using heap initialization 5) using a binary search tree (insert the numbers into an initially empty binary search tree, and report the numbers in in-order) 6) using a splay tree 7) Merge sort</br>
 Assign 5.</br>
